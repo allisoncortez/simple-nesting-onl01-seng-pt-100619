@@ -83,6 +83,9 @@ def adding_matz
         }
      }
 
+programmer_hash[:new_name] = {}
+
+programmer_hash[:new_name]
     
 end
 
